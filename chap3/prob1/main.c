@@ -19,7 +19,6 @@ int main(){
     }
 
   if(max > 0)
-    printf("\n%s \n", longest);
-
+    printf("%s \n", longest);
   return 0;
 }
